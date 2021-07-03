@@ -1,6 +1,6 @@
 # ProyectoEmbebidos
 
 ## Componentes
-![Fig_1](https://github.com/u201712431/ProyectoEmbebidos/tree/main/Imagenes/ArduinoUNO.jpg)
+![Fig_1](https://github.com/u201712431/ProyectoEmbebidos/blob/main/Imagenes/ArduinoUNO.jpg)
 
 ## Avances
