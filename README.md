@@ -11,3 +11,16 @@ Arduino UNO | CNC Shield | CNC
 ### Elementos adicionales
 
 ## Proceso
+
+## Resultados
+
+## Equipo
+Patrick De La Cruz
+
+Richard Paredes
+
+Estefano Sovero
+
+Alonso Terán
+
+Maria Valdez
