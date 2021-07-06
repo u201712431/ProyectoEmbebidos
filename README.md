@@ -8,7 +8,7 @@
 :--------------------------------------------: | :--------------------------------------------: | :----------------------------------:
 Arduino UNO | [CNC Shield]() | [CNC](https://github.com/u201712431/ProyectoEmbebidos/blob/main/CNC_add.md)
 
-### [Elementos adicionales]()
+### [Elementos adicionales](https://github.com/u201712431/ProyectoEmbebidos/blob/main/elementos.md)
 
 ## Proceso
 
