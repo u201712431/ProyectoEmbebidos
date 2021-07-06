@@ -1,6 +1,6 @@
 En esta sección se presentan elementos complementarios y adicionales:
 
-Elemento | Figura
+Elemento | Foto
 :------: | :------:
 Cable de la fuente de alimentación | <img src="https://github.com/u201712431/ProyectoEmbebidos/blob/main/Imagenes/Cable_FuenteDeAlimentacion.jpg" alt="Cable Fuente de Alimentación">
 Cable de conexión (Uso: conectar motores al Arduino a través de la CNC-Shield) | <img src="https://github.com/u201712431/ProyectoEmbebidos/blob/main/Imagenes/CablesParaConexion.jpg" alt="Cables para conexión">
