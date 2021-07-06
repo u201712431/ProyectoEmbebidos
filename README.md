@@ -23,6 +23,13 @@ La salida de corriente continua se realiza a traves de las conexiones que van di
 Se realizan las conexiones de los motores con el CNC-Shield y Arduino | <img src="https://github.com/u201712431/ProyectoEmbebidos/blob/main/Imagenes/Conexiones_Motores-CNC_Shield-Arduino.jpg" alt="Conexiones Motores CNC Shield Arduino">
 Se pegan los dispersadores a los pololus. | <img src="https://github.com/u201712431/ProyectoEmbebidos/blob/main/Imagenes/Pegado_Dispersadores-Pololus.jpg" alt="Dispersadores-Pololus">
 
+### Configuración de softwares
+<img src="https://github.com/u201712431/ProyectoEmbebidos/blob/main/Imagenes/Software_Xloader.jpg" alt="Xloader"> | Se utiliza el software Xloader para instalar el firmware GRBL directamente al Gcode Sender.
+:---------: | :--------:
+<img src="https://github.com/u201712431/ProyectoEmbebidos/blob/main/Imagenes/GcodeSender_Version.png" alt="Versión Gcode Sender"> | Versión utilizada de Gcode Sender en el proyecto.
+<img src="https://github.com/u201712431/ProyectoEmbebidos/blob/main/Imagenes/GcodeSender_Comandos.png" alt="Comandos Gcode Sender"> |Se configuran los comandos para obtener un correcto uso de los motores.
+
+### Explicación de los comandos
 
 ## Resultados
 
