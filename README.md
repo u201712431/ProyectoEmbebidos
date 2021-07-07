@@ -36,6 +36,11 @@ Foto | Explicación
 <img src="https://github.com/u201712431/ProyectoEmbebidos/blob/main/Imagenes/GcodeSender_Comandos.png" alt="Comandos Gcode Sender"> |Se configuran los comandos para obtener un correcto uso de los motores.
 
 ### Explicación de los comandos
+`$100 = 160.000 (X-Axis travel resolution, step/mm)`
+
+`$101 = 160.000 (Y-Axis travel resolution, step/mm)`
+
+> Dato: El motor necesita 200 pasos para obtener un correcto uso de los motores.
 
 ## Resultados
 
