@@ -8,6 +8,10 @@
 :--------------------------------------------: | :--------------------------------------------: | :----------------------------------:
 Arduino UNO | CNC Shield | [CNC](https://github.com/u201712431/ProyectoEmbebidos/blob/main/CNC_add.md)
 
+<img src="https://github.com/u201712431/ProyectoEmbebidos/blob/main/Imagenes/CNC-Shield-Pololus.jpg" alt="Pololus"> | <img src="https://github.com/u201712431/ProyectoEmbebidos/blob/main/Imagenes/Dispersador.jpg" alt="Dispersador">
+:-----------: | :----------:
+Pololus | Dispersador
+
 ### [Elementos adicionales](https://github.com/u201712431/ProyectoEmbebidos/blob/main/elementos.md)
 
 ## Proceso
