@@ -49,7 +49,7 @@ Patrick De La Cruz
 
 Richard Paredes
 
-Estefano Sovero
+Estéfano Sovero
 
 Alonso Terán
 
