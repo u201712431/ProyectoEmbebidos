@@ -7,10 +7,8 @@
 <img src="https://github.com/u201712431/ProyectoEmbebidos/blob/main/Imagenes/ArduinoUNO.jpg" alt="ArduinoUNO">    |                                                             <img src="https://github.com/u201712431/ProyectoEmbebidos/blob/main/Imagenes/CNC-Shield.jpg" alt="CNC-Shield">    |                                                             <img src="https://github.com/u201712431/ProyectoEmbebidos/blob/main/Imagenes/CNC-SinConexiones.jpg" alt="CNC">
 :--------------------------------------------: | :--------------------------------------------: | :----------------------------------:
 Arduino UNO | CNC Shield | [CNC](https://github.com/u201712431/ProyectoEmbebidos/blob/main/CNC_add.md)
-
-<img src="https://github.com/u201712431/ProyectoEmbebidos/blob/main/Imagenes/CNC-Shield-Pololus.jpg" alt="Pololus"> | <img src="https://github.com/u201712431/ProyectoEmbebidos/blob/main/Imagenes/Dispersador.jpg" alt="Dispersador">
-:-----------: | :----------:
-Pololus | Dispersador
+<img src="https://github.com/u201712431/ProyectoEmbebidos/blob/main/Imagenes/CNC-Shield-Pololus.jpg" alt="Pololus"> | <img src="https://github.com/u201712431/ProyectoEmbebidos/blob/main/Imagenes/Dispersador.jpg" alt="Dispersador"> | <img src="https://github.com/u201712431/ProyectoEmbebidos/blob/main/Imagenes/Figura24.jpg" alt="Relay">
+Pololus | Dispersador | Relay
 
 #### [**Elementos adicionales*](https://github.com/u201712431/ProyectoEmbebidos/blob/main/elementos.md)
 
@@ -41,6 +39,18 @@ Foto | Explicación
 `$101 = 160.000 (Y-Axis travel resolution, step/mm)`
 
 > Dato: El motor necesita 200 pasos para obtener un correcto uso de los motores.
+
+### Segunda Parte
+Acción | Foto
+:------: | :------:
+El relay será conectado al CNC Shield. | <img src="https://github.com/u201712431/ProyectoEmbebidos/blob/main/Imagenes/Figura24.jpg" alt="">
+Conexión del relay al puerto COM y al puerto NO. | <img src="https://github.com/u201712431/ProyectoEmbebidos/blob/main/Imagenes/Figura25.jpg" alt="">
+Demostración de la conexión. | <img src="https://github.com/u201712431/ProyectoEmbebidos/blob/main/Imagenes/Figura26.jpg" alt="">
+El relay se conecta al solenoide. | <img src="https://github.com/u201712431/ProyectoEmbebidos/blob/main/Imagenes/Figura%2027.jpg" alt="">
+Dos nuevas conexiones a la fuente de alimentación. | <img src="https://github.com/u201712431/ProyectoEmbebidos/blob/main/Imagenes/Figura28.jpg" alt="">
+Se instaló inkscape para dibujar una figura y comprobar el funcionamiento del solenoide. Aquí se configuran los comandos `M8` (activar solenoide) y `M9` (desactivar solenoide). Sin embargo, luego de enviar el código a Gcode Sender, se verificó que la máquina no lograba completar el recorrido (*[Video 1]()*). Esto debido a la interferencia del voltaje de 24V, lo cual también provocaba el movimiento brusco del solenoide. | <img src="https://github.com/u201712431/ProyectoEmbebidos/blob/main/Imagenes/Figura29.png" alt="">
+Aquí se comprobó el funcionamiento del relay. | <img src="https://github.com/u201712431/ProyectoEmbebidos/blob/main/Imagenes/Figura30.jpg" alt="">
+
 
 ## Resultados
 
