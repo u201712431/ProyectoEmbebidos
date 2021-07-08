@@ -40,6 +40,10 @@ Foto | Explicación
 
 > Dato: El motor necesita 200 pasos para obtener un correcto uso de los motores.
 
+- La varilla que conecta la faja con el motor tiene un diámetro de 12.7 mm.
+<img src="https://github.com/u201712431/ProyectoEmbebidos/blob/main/Imagenes/varilla.jpg" alt="Varilla con diámetro">    |
+- Dado que necesitamos saber cuál es el número de pasos o medios pasos que se requieren para que los ejes puedan avanzar 1 mm, realizamos los siguientes pasos:
+
 ### Segunda Parte
 Acción | Foto
 :------: | :------:
