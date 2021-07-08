@@ -61,7 +61,7 @@ Dado que necesitamos saber cuál es el número de pasos o medios pasos que se re
 
 <img src="https://github.com/u201712431/ProyectoEmbebidos/blob/fb99f7b9a43951b33d8695231fefb6b6e3049133/Imagenes/formula%203%20b.JPG">
 
-### ----------------Segunda Parte-------------------------
+### -------------------------------- Segunda Parte --------------------------------
 Acción | Foto
 :------: | :------:
 El relay será conectado al CNC Shield. | <img src="https://github.com/u201712431/ProyectoEmbebidos/blob/main/Imagenes/Figura24.jpg" alt="">
@@ -76,12 +76,12 @@ Aquí se comprobó el funcionamiento del relay. | <img src="https://github.com/u
 ## Resultados
 
 ## Equipo
-Patrick De La Cruz
+- Patrick De La Cruz
 
-Richard Paredes
+- Richard Paredes
 
-Estéfano Sovero
+- Estéfano Sovero
 
-Alonso Terán
+- Alonso Terán
 
-Maria Valdez
+- Maria Valdez
