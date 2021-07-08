@@ -89,6 +89,7 @@ Foto | Explicación
 ## 3. Resultados
 
 ![Dibujo1](https://github.com/u201712431/ProyectoEmbebidos/blob/main/Imagenes/Dibujo_1.gif)
+![Perro](https://github.com/u201712431/ProyectoEmbebidos/blob/main/Imagenes/Perro.gif)
 
 ## 4. Observaciones
 
