@@ -84,6 +84,8 @@ Foto | Explicación
 
 ## 3. Resultados
 
+![Dibujo1](https://github.com/u201712431/ProyectoEmbebidos/blob/feb004de71edc8348d5bab0935f02a1f59acf9db/Imagenes/Dibujo_1.gif)
+
 ## 4. Observaciones
 
 - El funcionamiento del relay no era el correcto porque la máquina no lograba completar el recorrido. 
