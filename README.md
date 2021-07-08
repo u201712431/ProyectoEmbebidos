@@ -46,6 +46,21 @@ Foto | Explicación
 
 - Dado que necesitamos saber cuál es el número de pasos o medios pasos que se requieren para que los ejes puedan avanzar 1 mm, realizamos los siguientes pasos:
 
+## Paso 1:
+- Debemos hallar la longitud de arco de la varilla que conecta el motor con la faja:
+
+<img src="https://github.com/u201712431/ProyectoEmbebidos/blob/3c0b9179d057773e6a420eae4bd05e3d0e138f1f/Imagenes/formula%201.JPG">
+     
+## Paso 2:
+- Se hallará el número de pasos completos que se requieren para que el motor avance 1 mm:
+     
+ <img src="https://github.com/u201712431/ProyectoEmbebidos/blob/3c0b9179d057773e6a420eae4bd05e3d0e138f1f/Imagenes/formula%202.JPG">
+ 
+## Paso 3:
+- Se hallará el número de medios pasos que se requieren para que el motor avance 1 mm:
+
+<img src="https://github.com/u201712431/ProyectoEmbebidos/blob/3c0b9179d057773e6a420eae4bd05e3d0e138f1f/Imagenes/formula%203.JPG">
+
 ### Segunda Parte
 Acción | Foto
 :------: | :------:
