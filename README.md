@@ -85,12 +85,12 @@ Foto | Explicación
 ## 3. Resultados
 
 ## 4. Equipo
-- Patrick De La Cruz @PatrickDLCruz
+- Patrick De La Cruz [@PatrickDLCruz](https://github.com/PatrickDLCruz)
 
 - Richard Paredes 
 
-- Estéfano Sovero @U201712431
+- Estéfano Sovero [@u201712431](https://github.com/u201712431)
 
 - Alonso Terán
 
-- Maria Valdez @MariaV1247
+- Maria Valdez [@MariaV1247](https://github.com/MariaV1247)
