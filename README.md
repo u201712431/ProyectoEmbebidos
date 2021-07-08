@@ -84,7 +84,19 @@ Foto | Explicación
 
 ## 3. Resultados
 
-## 4. Equipo
+## 4. Observaciones
+
+- El funcionamiento del relay no era el correcto porque la máquina no lograba completar el recorrido. 
+- Notamos que había una baja en la tensión y esto se pudo arreglar con un condensador. 
+- la base de vidrio tiene una influencia aparente en los componentes. 
+
+## 5. Recomendaciones 
+
+- Mantener una mesa de trabajo ordenada y limpia. 
+- Utilizar una base de madera ya que, como se comentó previamente, La base de vidrio pareciera tener influencia de los componentes (sobre todo con el relay). 
+- Conservar Los cables ordenados ya que podrían causar una interferencia con el voltaje. 
+
+## 6. Equipo
 - Patrick De La Cruz [@PatrickDLCruz](https://github.com/PatrickDLCruz)
 
 - Richard Paredes [@RichardJahir99](https://github.com/RichardJahir99)
