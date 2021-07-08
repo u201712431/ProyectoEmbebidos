@@ -61,7 +61,7 @@ Dado que necesitamos saber cuál es el número de pasos o medios pasos que se re
 
 <img src="https://github.com/u201712431/ProyectoEmbebidos/blob/fb99f7b9a43951b33d8695231fefb6b6e3049133/Imagenes/formula%203%20b.JPG">
 
-### --------------------------------------------------------- Segunda Parte ---------------------------------------------------------
+### ----------------------------------------------- Segunda Parte -----------------------------------------------
 Acción | Foto
 :------: | :------:
 El relay será conectado al CNC Shield. | <img src="https://github.com/u201712431/ProyectoEmbebidos/blob/main/Imagenes/Figura24.jpg" alt="">
@@ -71,6 +71,14 @@ El relay se conecta al solenoide. | <img src="https://github.com/u201712431/Proy
 Dos nuevas conexiones a la fuente de alimentación. | <img src="https://github.com/u201712431/ProyectoEmbebidos/blob/main/Imagenes/Figura28.jpg" alt="">
 Se instaló inkscape para dibujar una figura y comprobar el funcionamiento del solenoide. Se configuraron los comandos `M8` (activar solenoide) y `M9` (desactivar solenoide). Sin embargo, luego de enviar el código a Gcode Sender, se verificó que la máquina no lograba completar el recorrido (*[Video 1]()*). Esto debido a la interferencia del voltaje de 24V, lo cual también provocaba el movimiento brusco del solenoide. | <img src="https://github.com/u201712431/ProyectoEmbebidos/blob/main/Imagenes/Figura29.png" alt="">
 Aquí se comprobó el funcionamiento del relay. | <img src="https://github.com/u201712431/ProyectoEmbebidos/blob/main/Imagenes/Figura30.jpg" alt="">
+
+- Dado que las bobinas, que son cargas resistivas, al momento de energizarlas pueden ocurrir bajos de tensión. Esto provoca que se interrumpa la transferencia de datos.
+- Por ello, se le implementó un diodo con condensador interno. Este almacena la carga de modo que compensa la energía faltante cuando la tensión es baja.
+- De esta manera, se compensa los bajones de tensión y la comunicación es perenne.
+Foto | Explicación
+:------: | :------:
+<img src="https://github.com/u201712431/ProyectoEmbebidos/blob/feb004de71edc8348d5bab0935f02a1f59acf9db/Imagenes/Diodoconcondensador.jpg" alt=""> | Imagen del diodo con el condensador interno. 
+<img src="https://github.com/u201712431/ProyectoEmbebidos/blob/feb004de71edc8348d5bab0935f02a1f59acf9db/Imagenes/diodoconectado.jpg" alt=""> | Imagen del diodo conectado.
 
 
 ## Resultados
