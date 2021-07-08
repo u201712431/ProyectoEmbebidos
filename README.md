@@ -75,6 +75,7 @@ Aquí se comprobó el funcionamiento del relay. | <img src="https://github.com/u
 - Dado que las bobinas, que son cargas resistivas, al momento de energizarlas pueden ocurrir bajos de tensión. Esto provoca que se interrumpa la transferencia de datos.
 - Por ello, se le implementó un diodo con condensador interno. Este almacena la carga de modo que compensa la energía faltante cuando la tensión es baja.
 - De esta manera, se compensa los bajones de tensión y la comunicación es perenne.
+
 Foto | Explicación
 :---------: | :--------:
 <img src="https://github.com/u201712431/ProyectoEmbebidos/blob/feb004de71edc8348d5bab0935f02a1f59acf9db/Imagenes/Diodoconcondensador.jpg" alt="Diodo con condensador"> | Imagen del diodo con el condensador interno. 
