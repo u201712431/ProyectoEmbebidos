@@ -1,5 +1,9 @@
 # ProyectoEmbebidos
 
+Hola! Bienvenido a nuestro proyecto.
+En esta página pordrás apreciar todo el proceso de creación realizado en nuestro proyecto final del curso Sistemas Informáticos Embebidos. El objetivo de este proyecto fue realizar una experiencia haciendo uso de softwares y herramientas mecánicas. 
+El proyecto fue realizado por estudiantes de la carrera de Ingeniería Industrial y con el apoyo del profesor del curso, el Ingeniero Luis Enrique Peña Mendoza.
+
 ## 1. Componentes
 
 ### 1.1. Hardware Principal
