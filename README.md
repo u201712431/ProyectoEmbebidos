@@ -72,7 +72,7 @@ El relay será conectado al CNC Shield. | <img src="https://github.com/u20171243
 Conexión del relay al puerto COM y al puerto NO. | <img src="https://github.com/u201712431/ProyectoEmbebidos/blob/main/Imagenes/Figura25.jpg" alt="">
 Demostración de la conexión. | <img src="https://github.com/u201712431/ProyectoEmbebidos/blob/main/Imagenes/Figura26.jpg" alt="">
 El relay se conecta al solenoide. | <img src="https://github.com/u201712431/ProyectoEmbebidos/blob/main/Imagenes/Figura%2027.jpg" alt="">
-Dos nuevas conexiones a la fuente de alimentación (*[Video 1]()*). | <img src="https://github.com/u201712431/ProyectoEmbebidos/blob/main/Imagenes/Figura28.jpg" alt="">
+Dos nuevas conexiones a la fuente de alimentación (*[Video 1](https://youtu.be/qWMBLPb95iQ)*). | <img src="https://github.com/u201712431/ProyectoEmbebidos/blob/main/Imagenes/Figura28.jpg" alt="">
 Se instaló inkscape para dibujar una figura y comprobar el funcionamiento del solenoide. Se configuraron los comandos `M8` (activar solenoide) y `M9` (desactivar solenoide). Sin embargo, luego de enviar el código a Gcode Sender, se verificó que la máquina no lograba completar el recorrido (*[Video 2](https://youtu.be/N6gLUjlWxIs)*). Esto debido a la interferencia del voltaje de 24V, lo cual también provocaba el movimiento brusco del solenoide. | <img src="https://github.com/u201712431/ProyectoEmbebidos/blob/main/Imagenes/Figura29.png" alt="">
 Aquí se comprobó el funcionamiento del relay. | <img src="https://github.com/u201712431/ProyectoEmbebidos/blob/main/Imagenes/Figura30.jpg" alt="">
 
