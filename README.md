@@ -59,7 +59,7 @@ Dado que necesitamos saber cuál es el número de pasos o medios pasos que se re
 ## Paso 3:
 - Se hallará el número de medios pasos que se requieren para que el motor avance 1 mm:
 
-<img src="">
+<img src="https://github.com/u201712431/ProyectoEmbebidos/blob/fb99f7b9a43951b33d8695231fefb6b6e3049133/Imagenes/formula%203%20b.JPG">
 
 ### Segunda Parte
 Acción | Foto
