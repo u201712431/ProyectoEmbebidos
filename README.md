@@ -85,12 +85,12 @@ Foto | Explicación
 ## 3. Resultados
 
 ## 4. Equipo
-- Patrick De La Cruz
+- Patrick De La Cruz @PatrickDLCruz
 
-- Richard Paredes
+- Richard Paredes 
 
-- Estéfano Sovero
+- Estéfano Sovero @U201712431
 
 - Alonso Terán
 
-- Maria Valdez
+- Maria Valdez @MariaV1247
