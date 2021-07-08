@@ -76,9 +76,9 @@ Aquí se comprobó el funcionamiento del relay. | <img src="https://github.com/u
 - Por ello, se le implementó un diodo con condensador interno. Este almacena la carga de modo que compensa la energía faltante cuando la tensión es baja.
 - De esta manera, se compensa los bajones de tensión y la comunicación es perenne.
 Foto | Explicación
-:------: | :------:
-<img src="https://github.com/u201712431/ProyectoEmbebidos/blob/feb004de71edc8348d5bab0935f02a1f59acf9db/Imagenes/Diodoconcondensador.jpg" alt=""> | Imagen del diodo con el condensador interno. 
-<img src="https://github.com/u201712431/ProyectoEmbebidos/blob/feb004de71edc8348d5bab0935f02a1f59acf9db/Imagenes/diodoconectado.jpg" alt=""> | Imagen del diodo conectado.
+:---------: | :--------:
+<img src="https://github.com/u201712431/ProyectoEmbebidos/blob/feb004de71edc8348d5bab0935f02a1f59acf9db/Imagenes/Diodoconcondensador.jpg" alt="Diodo con condensador"> | Imagen del diodo con el condensador interno. 
+<img src="https://github.com/u201712431/ProyectoEmbebidos/blob/feb004de71edc8348d5bab0935f02a1f59acf9db/Imagenes/diodoconectado.jpg" alt="Diodo conectado"> | Imagen del diodo conectado.
 
 
 ## Resultados
