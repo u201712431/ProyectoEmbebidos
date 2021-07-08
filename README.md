@@ -1,8 +1,8 @@
 # ProyectoEmbebidos
 
-## Componentes
+## 1. Componentes
 
-### Hardware Principal
+### 1.1. Hardware Principal
 
 <img src="https://github.com/u201712431/ProyectoEmbebidos/blob/main/Imagenes/ArduinoUNO.jpg" alt="ArduinoUNO">    |                                                             <img src="https://github.com/u201712431/ProyectoEmbebidos/blob/main/Imagenes/CNC-Shield.jpg" alt="CNC-Shield">    |                                                             <img src="https://github.com/u201712431/ProyectoEmbebidos/blob/main/Imagenes/CNC-SinConexiones.jpg" alt="CNC">
 :--------------------------------------------: | :--------------------------------------------: | :----------------------------------:
@@ -10,9 +10,9 @@ Arduino UNO | CNC Shield | [CNC](https://github.com/u201712431/ProyectoEmbebidos
 <img src="https://github.com/u201712431/ProyectoEmbebidos/blob/main/Imagenes/CNC-Shield-Pololus.jpg" alt="Pololus"> | <img src="https://github.com/u201712431/ProyectoEmbebidos/blob/main/Imagenes/Dispersador.jpg" alt="Dispersador"> | <img src="https://github.com/u201712431/ProyectoEmbebidos/blob/main/Imagenes/Figura24.jpg" alt="Relay">
 Pololus | Dispersador | Relay
 
-#### [**Elementos adicionales*](https://github.com/u201712431/ProyectoEmbebidos/blob/main/elementos.md)
+#### 1.2. [**Elementos adicionales*](https://github.com/u201712431/ProyectoEmbebidos/blob/main/elementos.md)
 
-## Proceso
+## 2. Proceso
 
 - Se conectó el CNC-Shield al Arduino y los pololus al CNC-Shield. Luego se ensamblaron a la base acrílica.
 
@@ -26,14 +26,14 @@ La salida de corriente continua se realiza a traves de las conexiones que van di
 Se realizan las conexiones de los motores con el CNC-Shield y Arduino | <img src="https://github.com/u201712431/ProyectoEmbebidos/blob/main/Imagenes/Conexiones_Motores-CNC_Shield-Arduino.jpg" alt="Conexiones Motores CNC Shield Arduino">
 Se pegan los dispersadores a los pololus. | <img src="https://github.com/u201712431/ProyectoEmbebidos/blob/main/Imagenes/Pegado_Dispersadores-Pololus.jpg" alt="Dispersadores-Pololus">
 
-### Configuración de softwares
+### 2.1. Configuración de softwares
 Foto | Explicación
 :---------: | :--------:
 <img src="https://github.com/u201712431/ProyectoEmbebidos/blob/main/Imagenes/Software_Xloader.jpg" alt="Xloader"> | Se utiliza el software Xloader para instalar el firmware GRBL directamente al Gcode Sender.
 <img src="https://github.com/u201712431/ProyectoEmbebidos/blob/main/Imagenes/GcodeSender_Version.png" alt="Versión Gcode Sender"> | Versión utilizada de Gcode Sender en el proyecto.
 <img src="https://github.com/u201712431/ProyectoEmbebidos/blob/main/Imagenes/GcodeSender_Comandos.png" alt="Comandos Gcode Sender"> |Se configuran los comandos para obtener un correcto uso de los motores.
 
-### Explicación de los comandos
+### 2.2. Explicación de los comandos
 `$100 = 160.000 (X-Axis travel resolution, step/mm)`
 
 `$101 = 160.000 (Y-Axis travel resolution, step/mm)`
@@ -46,17 +46,17 @@ Foto | Explicación
 
 Dado que necesitamos saber cuál es el número de pasos o medios pasos que se requieren para que los ejes puedan avanzar 1 mm, realizamos los siguientes pasos:
 
-## Paso 1:
+#### Paso 1:
 - Debemos hallar la longitud de arco de la varilla que conecta el motor con la faja:
 
 <img src="https://github.com/u201712431/ProyectoEmbebidos/blob/3c0b9179d057773e6a420eae4bd05e3d0e138f1f/Imagenes/formula%201.JPG">
      
-## Paso 2:
+#### Paso 2:
 - Se hallará el número de pasos completos que se requieren para que el motor avance 1 mm:
      
  <img src="https://github.com/u201712431/ProyectoEmbebidos/blob/3c0b9179d057773e6a420eae4bd05e3d0e138f1f/Imagenes/formula%202.JPG">
  
-## Paso 3:
+#### Paso 3:
 - Se hallará el número de medios pasos que se requieren para que el motor avance 1 mm:
 
 <img src="https://github.com/u201712431/ProyectoEmbebidos/blob/fb99f7b9a43951b33d8695231fefb6b6e3049133/Imagenes/formula%203%20b.JPG">
@@ -82,9 +82,9 @@ Foto | Explicación
 <img src="https://github.com/u201712431/ProyectoEmbebidos/blob/feb004de71edc8348d5bab0935f02a1f59acf9db/Imagenes/diodoconectado.jpg" alt="Diodo conectado"> | Imagen del diodo conectado.
 
 
-## Resultados
+## 3. Resultados
 
-## Equipo
+## 4. Equipo
 - Patrick De La Cruz
 
 - Richard Paredes
