@@ -88,7 +88,7 @@ Foto | Explicación
 
 - El funcionamiento del relay no era el correcto porque la máquina no lograba completar el recorrido. 
 - Notamos que había una baja en la tensión y esto se pudo arreglar con un condensador. 
-- la base de vidrio tiene una influencia aparente en los componentes. 
+- La base de vidrio tiene una influencia aparente en los componentes. 
 
 ## 5. Recomendaciones 
 
